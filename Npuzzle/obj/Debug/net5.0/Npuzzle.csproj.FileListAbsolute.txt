@@ -1,0 +1,32 @@
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\Npuzzle\bin\Debug\net5.0\Npuzzle.exe
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\Npuzzle\bin\Debug\net5.0\Npuzzle.deps.json
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\Npuzzle\bin\Debug\net5.0\Npuzzle.runtimeconfig.json
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\Npuzzle\bin\Debug\net5.0\Npuzzle.runtimeconfig.dev.json
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\Npuzzle\bin\Debug\net5.0\Npuzzle.dll
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\Npuzzle\bin\Debug\net5.0\ref\Npuzzle.dll
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\Npuzzle\bin\Debug\net5.0\Npuzzle.pdb
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\Npuzzle\obj\Debug\net5.0\Npuzzle.csproj.AssemblyReference.cache
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\Npuzzle\obj\Debug\net5.0\Npuzzle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\Npuzzle\obj\Debug\net5.0\Npuzzle.AssemblyInfoInputs.cache
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\Npuzzle\obj\Debug\net5.0\Npuzzle.AssemblyInfo.cs
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\Npuzzle\obj\Debug\net5.0\Npuzzle.csproj.CoreCompileInputs.cache
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\Npuzzle\obj\Debug\net5.0\Npuzzle.dll
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\Npuzzle\obj\Debug\net5.0\ref\Npuzzle.dll
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\Npuzzle\obj\Debug\net5.0\Npuzzle.pdb
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\Npuzzle\obj\Debug\net5.0\Npuzzle.genruntimeconfig.cache
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\Npuzzle\obj\Debug\net5.0\Npuzzle.pdb
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\Npuzzle\bin\Debug\net5.0\Npuzzle.exe
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\Npuzzle\bin\Debug\net5.0\Npuzzle.deps.json
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\Npuzzle\bin\Debug\net5.0\Npuzzle.runtimeconfig.json
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\Npuzzle\bin\Debug\net5.0\Npuzzle.runtimeconfig.dev.json
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\Npuzzle\bin\Debug\net5.0\Npuzzle.dll
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\Npuzzle\bin\Debug\net5.0\Npuzzle.pdb
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\Npuzzle\obj\Debug\net5.0\Npuzzle.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\Npuzzle\obj\Debug\net5.0\Npuzzle.AssemblyInfoInputs.cache
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\Npuzzle\obj\Debug\net5.0\Npuzzle.AssemblyInfo.cs
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\Npuzzle\obj\Debug\net5.0\Npuzzle.csproj.CoreCompileInputs.cache
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\Npuzzle\obj\Debug\net5.0\Npuzzle.dll
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\Npuzzle\obj\Debug\net5.0\ref\Npuzzle.dll
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\Npuzzle\obj\Debug\net5.0\Npuzzle.genruntimeconfig.cache
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\Npuzzle\obj\Debug\net5.0\Npuzzle.csproj.AssemblyReference.cache
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\Npuzzle\obj\Debug\net5.0\refint\Npuzzle.dll

@@ -1,0 +1,26 @@
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\3x3gui\obj\Debug\Npuzzle.Form1.resources
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\3x3gui\obj\Debug\_3x3gui.Properties.Resources.resources
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\3x3gui\obj\Debug\3x3gui.csproj.GenerateResource.cache
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\3x3gui\obj\Debug\3x3gui.csproj.CoreCompileInputs.cache
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\3x3gui\bin\Debug\3x3gui.exe.config
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\3x3gui\bin\Debug\3x3gui.exe
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\3x3gui\bin\Debug\3x3gui.pdb
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\3x3gui\obj\Debug\3x3gui.csproj.AssemblyReference.cache
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\3x3gui\obj\Debug\3x3gui.exe
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\Npuzzle\3x3gui\obj\Debug\3x3gui.pdb
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\new npuzzle\3x3gui\obj\Debug\3x3gui.csproj.AssemblyReference.cache
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\new npuzzle\3x3gui\obj\Debug\Npuzzle.Form1.resources
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\new npuzzle\3x3gui\obj\Debug\_3x3gui.Properties.Resources.resources
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\new npuzzle\3x3gui\obj\Debug\3x3gui.csproj.GenerateResource.cache
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\new npuzzle\3x3gui\obj\Debug\3x3gui.csproj.CoreCompileInputs.cache
+E:\Study\Education\College\year 3\Term 2\Algorithms analysis and design\Project\[3] N Puzzle\Project\new npuzzle\3x3gui\obj\Debug\3x3gui.pdb
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\3x3gui\bin\Debug\3x3gui.exe.config
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\3x3gui\bin\Debug\3x3gui.exe
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\3x3gui\bin\Debug\3x3gui.pdb
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\3x3gui\obj\Debug\Npuzzle.Form1.resources
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\3x3gui\obj\Debug\_3x3gui.Properties.Resources.resources
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\3x3gui\obj\Debug\3x3gui.csproj.GenerateResource.cache
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\3x3gui\obj\Debug\3x3gui.csproj.CoreCompileInputs.cache
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\3x3gui\obj\Debug\3x3gui.exe
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\3x3gui\obj\Debug\3x3gui.pdb
+D:\3rd Year\2nd semester\Analysis & Design Algorithm\N_Puzzle_project\Npuzzle\3x3gui\obj\Debug\3x3gui.csprojAssemblyReference.cache
